@@ -1,0 +1,71 @@
+.banner {
+	background-image: url(imagens/flor2.jpg);
+	background-size: 99%;
+	margin-top: 30px;
+}
+.banner img{
+	padding-left: 60px;
+
+}
+footer{
+	background-color: #d1cccc;
+	padding: 25px;
+}
+.navbar .navbar-header .navbar-brand {
+    padding: 0px;
+    margin-left: 20px;
+
+}
+.nav li a{
+	margin-left: 30px;
+	font-size: 16px;
+
+}
+
+body {
+
+font-family: 'Merriweather', serif;
+}
+
+.container a {
+	padding-bottom: 30px;
+	margin-top: 80px;
+	text-decoration: none;
+}
+
+footer{
+	margin-top: 100px;
+}
+
+.container-servicos .row {
+	padding: 25px 0px;
+}
+
+.container-produtos .row{
+	padding: 60px 0px;
+	font-size: 16px;
+
+
+}
+.form-control{
+	padding-bottom: 20px;
+}
+.col-md-4 img{
+	padding:30px;
+	font-size: 19px;
+}
+
+.carousel-inner .item{
+	padding: 1% 30%;
+}
+
+.carousel-inner .carousel-control{
+	padding: -5%;
+}
+.map p{
+	padding: 20px;
+	font-size: 16px;
+	
+
+}
+
